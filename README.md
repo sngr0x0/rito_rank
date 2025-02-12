@@ -9,7 +9,7 @@ This is a **Discord bot** that integrates with the **Riot Games API** to fetch *
 - Retrieves **PUUID** using **RiotID** (game name + tag).
 - Retrieves **Summoner ID** using PUUID.
 - Retrieves **ranked solo queue stats** (Tier, Rank, Winrate).
-- Implements a **Discord slash command (********`/get_rank_stats`********\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*)**.
+- Implements a **Discord slash command (********`/get_rank_stats`*********).
 - Validates user input (name and tag length).
 - Sends a **welcome message** when a new member joins.
 - Includes a simple `$say` command to repeat text in uppercase.
