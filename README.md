@@ -49,7 +49,7 @@ python rito_rank_v6.py
 
 ## Usage
 
-### \*\*Slash Command: \*\***`/get_rank_stats`**
+### Slash Command: **`/get_rank_stats`**
 
 - **Usage:** `/get_rank_stats region summoner_name tag`
 - **Example:** `/get_rank_stats Europe West Faker 123`
@@ -60,7 +60,7 @@ python rito_rank_v6.py
   Winrate: 57.89%
   ```
 
-### \*\*Text Command: \*\***`$say`**
+### Text Command: **`$say`**
 
 - **Usage:** `$say thanks for watching!`
 - **Output:** `THANKS FOR WATCHING!`
